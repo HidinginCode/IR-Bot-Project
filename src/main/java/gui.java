@@ -23,7 +23,7 @@ public class gui extends JFrame {
         int x = (d.width - getSize().width) / 2;
         int y = (d.height - getSize().height) / 2;
         setLocation(x, y);
-        setTitle("test");
+        setTitle("Botti - The best Chatbot in the World");
         setResizable(false);
         Container cp = getContentPane();
         cp.setLayout(null);
