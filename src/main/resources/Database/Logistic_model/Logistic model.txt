@@ -1,0 +1,5 @@
+Logistic model may refer to:
+
+Logistic function – a continuous sigmoidal curve
+Logistic map – a discrete version, which exhibits chaotic behavior
+Logistic regression
