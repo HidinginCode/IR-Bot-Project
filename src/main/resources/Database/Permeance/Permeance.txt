@@ -1,0 +1,13 @@
+Permeance, in general, is the degree to which a material admits a flow of matter or energy. Permeance is usually represented by a curly capital P: 
+  
+    
+      
+        
+          
+            P
+          
+        
+      
+    
+    {\displaystyle {\mathcal {P}}}
+  .

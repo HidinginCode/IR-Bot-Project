@@ -1,0 +1,13 @@
+An unergative verb which has no object which it refers to other than the subject of a sentence, is an intransitive verb (meaning a verb that is lacking a direct object) that is distinguished semantically by having an agent argument that is actively responsible for the action or initiated it.
+For example, in English, talk and resign in the sentence "You talk and you resign" are unergative verbs, since they are intransitive (one does not say "you talk someone") and "you" are the initiator or responsible for talking and resigning. But fall and die in the sentence "They fall and die" are unaccusative verbs, since usually they are not responsible for falling or dying but still the verb is intransitive, meaning it is comprehensively used without a direct object. (They cannot "fall something" or "die someone").Some languages treat unergative verbs differently from other intransitives in morphosyntactic terms. For example, in some Romance languages, such verbs use different auxiliaries when in compound tenses.
+Besides the above, unergative verbs differ from unaccusative verbs in that in some languages, they can occasionally use the passive voice.
+In Dutch, for example, unergatives take hebben (to have) in the perfect tenses:
+
+Ik telefoneer – ik heb getelefoneerd.
+"I call (by phone). – I have called."In such cases, a transition to an impersonal passive construction is possible by using the adverb er, which functions as a dummy subject and the passive auxiliary worden:
+
+Er wordt door Jan getelefoneerd.
+literally, "*There is by Jan telephoned." (meaning "A telephone call by Jan is going on.")By contrast, Dutch ergative verbs take zijn ("to be") in the perfect tenses:
+
+Het vet stolt – het vet is gestold
+"The grease solidifies – The grease has solidified."In that case, no passive construction with worden is possible. In other words, unergatives are truly intransitive, but ergatives are not.

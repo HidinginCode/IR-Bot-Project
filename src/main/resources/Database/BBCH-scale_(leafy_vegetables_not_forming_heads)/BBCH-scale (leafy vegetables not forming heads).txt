@@ -1,0 +1,5 @@
+In biology, the BBCH-scale for leafy vegetables not forming heads describes the phenological development of leafy vegetables not forming heads, such as spinach, loosehead lettuce, and kale, using the BBCH-scale.
+The phenological growth stages and BBCH-identification keys of leafy vegetables not forming heads are:
+
+1. For lettuce varieties without head, spinach and species with rosette-type growth
+2. For kale and species without rosette growth

@@ -1,0 +1,1 @@
+Code page 1014 (CCSID 1014), also known as CP1014, is IBM's code page for the Spanish version of ISO 646 for Spain.
